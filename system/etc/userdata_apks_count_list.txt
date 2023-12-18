@@ -1,0 +1,4 @@
+/data/app/TGuard_Erasable/TGuard_Erasable.apk
+/data/app/SecCalculator2_L/SecCalculator2_L.apk
+/data/app/SecMemo2/SecMemo2.apk
+/data/app/VoiceRecorder_ESS/VoiceRecorder_ESS.apk
