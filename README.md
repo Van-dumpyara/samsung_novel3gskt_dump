@@ -1,0 +1,14 @@
+# novel3gskt-user 5.1.1 LMY47X G155SKSU1APL2 release-keys
+- manufacturer: samsung
+- platform: exynos3
+- codename: novel3gskt
+- flavor: novel3gskt-user
+- release: 5.1.1
+- id: LMY47X
+- incremental: G155SKSU1APL2
+- tags: release-keys
+- fingerprint: samsung/novel3gskt/novel3gskt:5.1.1/LMY47X/G155SKSU1APL2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: novel3gskt-user-5.1.1-LMY47X-G155SKSU1APL2-release-keys
+- repo: samsung_novel3gskt_dump
